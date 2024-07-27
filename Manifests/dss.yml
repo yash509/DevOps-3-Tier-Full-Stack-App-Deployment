@@ -33,7 +33,7 @@ spec:
     spec:
       containers:
         - name: yelp-camp-container
-          image: yash5090/campa:latest
+          image: yash5090/yelp-camp:latest
           ports:
             - containerPort: 3000
           env:
